@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ishaq</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="pgdue GIF.gif" > 
+<img align="right" alt="coding" width="400" border-radius="14px" src="pgdue GIF.gif" > 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaqbusiness5666-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="ishaqbusiness5666-sudo" /> </p>
 
 <h3 align="left">Connect with me:</h3>
