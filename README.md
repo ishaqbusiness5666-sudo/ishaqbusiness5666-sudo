@@ -43,6 +43,43 @@
 
 ---
 
+# 🚀 Featured Projects
+
+## 🎬 Netflix Clone
+
+A fully responsive Netflix clone built using HTML, CSS, and JavaScript.
+
+🔗 Live Demo: https://your-live-link.com
+📂 Repository: https://github.com/yourusername/netflix-clone
+
+---
+
+## 📝 To-Do List App
+
+Modern To-Do website with localStorage support and GSAP animations.
+
+🔗 Live Demo: https://to-do-list-pi-ashy-40.vercel.app/
+📂 Repository: https://github.com/yourusername/todo-app
+
+---
+
+## 🖼️ Pagination Image Gallery
+
+Responsive React.js image gallery with API integration and pagination system.
+
+🔗 Live Demo: https://your-live-link.com
+📂 Repository: https://github.com/yourusername/pagination-gallery
+
+---
+
+## 🎥 YouTube Multiple Screen Player
+
+Watch the same YouTube video on multiple screens simultaneously.
+
+🔗 Live Demo: https://youtube-multiple-video.vercel.app/
+📂 Repository: https://github.com/yourusername/youtube-multiple-screen
+
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -74,6 +111,7 @@
 </p>
 
 ---
+
 
 # 🎯 Current Goals
 
