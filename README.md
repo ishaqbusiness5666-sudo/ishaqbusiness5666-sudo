@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ishaq</h1>
-<h3 align="center">A passionate frontend developer from pakistan</h3>
-
 <h3 align="left">Connect with me:</h3># <h1 align="center">Hi 👋, I'm Muhammad Ishaq</h1>
 
 <h3 align="center">Frontend & Full Stack Developer from Pakistan 🇵🇰</h3>
