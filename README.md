@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ishaq</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="pgdue GIF.gif" > 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaqbusiness5666-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="ishaqbusiness5666-sudo" /> </p>
-
 <h3 align="left">Connect with me:</h3># <h1 align="center">Hi 👋, I'm Muhammad Ishaq</h1>
 
 <h3 align="center">Frontend & Full Stack Developer from Pakistan 🇵🇰</h3>
@@ -100,4 +97,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"/>
 </p>
 
-9
+<p align="left">
+<a href="https://fb.com/ishaq.bugti.156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishaq.bugti.156" height="30" width="40" /></a>
+<a href="https://instagram.com/jabb.ar9933/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jabb.ar9933/" height="30" width="40" /></a>
+</p>
+
