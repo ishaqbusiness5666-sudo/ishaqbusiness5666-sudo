@@ -28,22 +28,56 @@
 
 ---
 
-# ⚡ Skills
+# ⚡ Skills Progress
 
-* HTML5
-* CSS3
-* JavaScript
-* GSAP Animations
-* React.js
-* Tailwind CSS
-* Node.js
-* Express.js
-* MongoDB
-* REST API Integrations
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🎨 Frontend
+
+* HTML5 ⭐⭐⭐⭐⭐
+* CSS3 ⭐⭐⭐⭐⭐
+* JavaScript ⭐⭐⭐⭐☆
+* React.js ⭐⭐⭐⭐☆
+* Tailwind CSS ⭐⭐⭐⭐⭐
+* GSAP Animations ⭐⭐⭐⭐☆
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend
+
+* Node.js ⭐⭐⭐⭐☆
+* Express.js ⭐⭐⭐⭐☆
+* MongoDB ⭐⭐⭐⭐☆
+* REST APIs ⭐⭐⭐⭐☆
+* API Integrations ⭐⭐⭐⭐☆
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Tools & Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Code-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode" />
+
+<img src="https://img.shields.io/badge/Version%20Control-Git-black?style=for-the-badge&logo=git" />
+
+<img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel" />
+
+<img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" />
+
+</p>
+
+---
+
+# Featured Projects
 
 ## 🎬 Netflix Clone
 
