@@ -97,8 +97,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"/>
 </p>
 
-<p align="left">
-<a href="https://fb.com/ishaq.bugti.156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishaq.bugti.156" height="30" width="40" /></a>
-<a href="https://instagram.com/jabb.ar9933/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jabb.ar9933/" height="30" width="40" /></a>
-</p>
-
