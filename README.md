@@ -83,8 +83,8 @@
 
 A fully responsive Netflix clone built using HTML, CSS, and JavaScript.
 
-🔗 Live Demo: https://your-live-link.com
-📂 Repository: https://github.com/yourusername/netflix-clone
+🔗 Live Demo: https://youtube-multiple-video.vercel.app/
+📂 Repository: https://github.com/ishaqbusiness5666-sudo/Youtube_Multiple_video
 
 ---
 
@@ -93,7 +93,7 @@ A fully responsive Netflix clone built using HTML, CSS, and JavaScript.
 Modern To-Do website with localStorage support and GSAP animations.
 
 🔗 Live Demo: https://to-do-list-pi-ashy-40.vercel.app/
-📂 Repository: https://github.com/yourusername/todo-app
+📂 Repository: https://github.com/ishaqbusiness5666-sudo/To-Do-List
 
 ---
 
@@ -101,8 +101,8 @@ Modern To-Do website with localStorage support and GSAP animations.
 
 Responsive React.js image gallery with API integration and pagination system.
 
-🔗 Live Demo: https://your-live-link.com
-📂 Repository: https://github.com/yourusername/pagination-gallery
+🔗 Live Demo: https://react-js-pagination-website.vercel.app/
+📂 Repository: https://github.com/ishaqbusiness5666-sudo/React.js-pagination-website
 
 ---
 
