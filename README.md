@@ -111,7 +111,7 @@ Responsive React.js image gallery with API integration and pagination system.
 Watch the same YouTube video on multiple screens simultaneously.
 
 🔗 Live Demo: https://youtube-multiple-video.vercel.app/
-📂 Repository: https://github.com/yourusername/youtube-multiple-screen
+📂 Repository: https://github.com/ishaqbusiness5666-sudo/Youtube_Multiple_video
 
 
 # 📊 GitHub Stats
