@@ -1,3 +1,4 @@
+
 # <h1 align="center">Hi 👋, I'm Muhammad Ishaq</h1>
 
 <h3 align="center">Frontend & Full Stack Developer from Pakistan 🇵🇰</h3>
@@ -83,8 +84,8 @@
 
 A fully responsive Netflix clone built using HTML, CSS, and JavaScript.
 
-🔗 Live Demo: https://youtube-multiple-video.vercel.app/
-📂 Repository: https://github.com/ishaqbusiness5666-sudo/Youtube_Multiple_video
+🔗 Live Demo: https://netflex-clone-red-eight.vercel.app/
+📂 Repository: https://github.com/ishaqbusiness5666-sudo/Netflex-clone
 
 ---
 
@@ -117,11 +118,11 @@ Watch the same YouTube video on multiple screens simultaneously.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaqbusiness5666-sudo&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaqbusiness5666-sudo&theme=tokyonight" />
 </p>
 
 ---
@@ -134,14 +135,19 @@ Watch the same YouTube video on multiple screens simultaneously.
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://www.facebook.com/ishaq.bugti.156">
+<a href="https://www.facebook.com/m.ishaq03">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/m.ishaq03">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
+<a href="mailto:ishaqbiness5666@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/ishaqbusiness5666-sudo">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white%22"/>
+</a>
 </p>
 
 ---
@@ -165,4 +171,5 @@ Watch the same YouTube video on multiple screens simultaneously.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"/>
 </p>
+
 
