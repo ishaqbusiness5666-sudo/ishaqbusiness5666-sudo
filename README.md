@@ -118,7 +118,7 @@ Watch the same YouTube video on multiple screens simultaneously.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaqbusiness5666-sudo&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?user=ishaqbusiness5666-sudo&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
