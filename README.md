@@ -1,5 +1,5 @@
 
-# <h1 align="center">Hi 👋, I'm Muhammad Ishaq</h1>
+ <h1 align="center">Hi 👋, I'm Muhammad Ishaq</h1>
 
 <h3 align="center">Frontend & Full Stack Developer from Pakistan 🇵🇰</h3>
 
@@ -122,7 +122,7 @@ Watch the same YouTube video on multiple screens simultaneously.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaqbusiness5666-sudo&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ishaqbusiness5666-sudo&theme=tokyonight" />
 </p>
 
 ---
@@ -159,12 +159,6 @@ Watch the same YouTube video on multiple screens simultaneously.
 * Improve Backend Development
 * Learn Advanced React.js
 * Create Premium UI/UX Designs
-
----
-
-# 💡 Fun Fact
-
-⚡ I enjoy creating modern, animated, and responsive websites.
 
 ---
 
