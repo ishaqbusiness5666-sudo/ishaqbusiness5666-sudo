@@ -14,7 +14,7 @@
 
 ---
 
-## `01` — About Me
+## About Me
 
 I'm a passionate **Frontend & Full Stack Developer** focused on building modern web applications and improving my development skills every day.
 
@@ -28,7 +28,7 @@ I'm a passionate **Frontend & Full Stack Developer** focused on building modern 
 
 ---
 
-## `02` — Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -50,7 +50,7 @@ I'm a passionate **Frontend & Full Stack Developer** focused on building modern 
 
 ---
 
-## `03` — What I Build
+## What I Build
 
 ```text
 ┌──────────────────────────────────────────────────────┐
@@ -70,7 +70,7 @@ I'm a passionate **Frontend & Full Stack Developer** focused on building modern 
 
 ---
 
-## `04` — Featured Projects
+## Featured Projects
 
 ### 🎬 Netflix Clone
 
@@ -108,7 +108,7 @@ A web application that allows users to watch the same YouTube video across multi
 
 ---
 
-## `05` — GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -122,7 +122,7 @@ A web application that allows users to watch the same YouTube video across multi
 
 ---
 
-## `06` — Current Focus
+## Current Focus
 
 ```text
 [████████████████████░░]  Frontend Development
@@ -137,7 +137,7 @@ A web application that allows users to watch the same YouTube video across multi
 
 ---
 
-## `07` — Goals
+## Goals
 
 - 🚀 Build more complete full-stack applications
 - ⚛️ Master advanced React.js concepts
@@ -148,7 +148,7 @@ A web application that allows users to watch the same YouTube video across multi
 
 ---
 
-## `08` — Connect With Me
+## Connect With Me
 
 <div align="center">
 
