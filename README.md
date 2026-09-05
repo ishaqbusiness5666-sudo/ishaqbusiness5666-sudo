@@ -112,11 +112,11 @@ A web application that allows users to watch the same YouTube video across multi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ishaqbusiness5666-sudo&show_icons=true&hide_border=true&bg_color=030712&title_color=F9FAFB&text_color=F9FAFB&icon_color=8B5CF6" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ishaqbusiness5666-sudo&show_icons=true&hide_border=true&bg_color=030712&title_color=F9FAFB&text_color=F9FAFB&icon_color=F9FAFB" alt="GitHub Stats" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=ishaqbusiness5666-sudo&hide_border=true&background=030712&ring=8B5CF6&fire=06B6D4&currStreakLabel=F9FAFB&sideLabels=F9FAFB&dates=F9FAFB" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ishaqbusiness5666-sudo&hide_border=true&background=030712&ring=F9FAFB&fire=F9FAFB&currStreakLabel=F9FAFB&sideLabels=F9FAFB&dates=F9FAFB&currStreakNum=F9FAFB&sideNums=F9FAFB" alt="GitHub Streak" />
 
 </div>
 
