@@ -1,169 +1,185 @@
+<div align="center">
 
- <h1 align="center">Hi 👋, I'm Muhammad Ishaq</h1>
+# Hi 👋, I'm Muhammad Ishaq
 
-<h3 align="center">Frontend & Full Stack Developer from Pakistan 🇵🇰</h3>
+### Frontend & Full Stack Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Developer;Full+Stack+Learner;JavaScript+Enthusiast;Building+Modern+Websites" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;Full+Stack+Learner;JavaScript+Enthusiast;Building+Modern+Web+Experiences" alt="Typing SVG" />
+
+<br />
+
+**Building clean, responsive, and modern web experiences with code.**
+
+</div>
+
+---
+
+## `01` — About Me
+
+I'm a passionate **Frontend & Full Stack Developer** focused on building modern web applications and improving my development skills every day.
+
+- 💻 Building responsive and user-focused web applications
+- ⚛️ Working with **React.js** and **Tailwind CSS**
+- 🟣 Exploring modern frontend development and UI/UX
+- 🌐 Learning and building with **Node.js, Express.js & MongoDB**
+- 🔌 Working with REST APIs and API integrations
+- 🎬 Experimenting with animations using **GSAP**
+- 📚 Continuously learning and building real-world projects
+
+---
+
+## `02` — Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,gsap" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
 
 ---
 
-## 🚀 About Me
+## `03` — What I Build
 
-* 💻 Passionate Web Developer
-* ⚛️ Working with React.js & Tailwind CSS
-* 🌐 Learning Full Stack Development
-* 🔥 Love building responsive & animated websites
-* 📚 Currently improving Backend & API skills
-
----
-
-# 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb" />
-
-</p>
-
----
-
-# ⚡ Skills Progress
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🎨 Frontend
-
-* HTML5 ⭐⭐⭐⭐⭐
-* CSS3 ⭐⭐⭐⭐⭐
-* JavaScript ⭐⭐⭐⭐☆
-* React.js ⭐⭐⭐⭐☆
-* Tailwind CSS ⭐⭐⭐⭐⭐
-* GSAP Animations ⭐⭐⭐⭐☆
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Backend
-
-* Node.js ⭐⭐⭐⭐☆
-* Express.js ⭐⭐⭐⭐☆
-* MongoDB ⭐⭐⭐⭐☆
-* REST APIs ⭐⭐⭐⭐☆
-* API Integrations ⭐⭐⭐⭐☆
-
-</td>
-</tr>
-</table>
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   FRONTEND        React.js • JavaScript • Tailwind  │
+│                                                      │
+│   BACKEND         Node.js • Express.js • REST APIs  │
+│                                                      │
+│   DATABASE        MongoDB                            │
+│                                                      │
+│   ANIMATION       GSAP                               │
+│                                                      │
+│   DEPLOYMENT      Vercel                             │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
 
 ---
 
-# 🚀 Tools & Technologies
+## `04` — Featured Projects
 
-<p align="center">
+### 🎬 Netflix Clone
 
-<img src="https://img.shields.io/badge/Code-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode" />
+A responsive Netflix-inspired interface built with **HTML, CSS, and JavaScript**.
 
-<img src="https://img.shields.io/badge/Version%20Control-Git-black?style=for-the-badge&logo=git" />
-
-<img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel" />
-
-<img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" />
-
-</p>
+**Live:** [netflex-clone-red-eight.vercel.app](https://netflex-clone-red-eight.vercel.app/)  
+**Code:** [GitHub Repository](https://github.com/ishaqbusiness5666-sudo/Netflex-clone)
 
 ---
 
-# Featured Projects
+### 📝 To-Do List App
 
-## 🎬 Netflix Clone
+A modern task management website with **localStorage** support and **GSAP animations**.
 
-A fully responsive Netflix clone built using HTML, CSS, and JavaScript.
-
-🔗 Live Demo: https://netflex-clone-red-eight.vercel.app/
-📂 Repository: https://github.com/ishaqbusiness5666-sudo/Netflex-clone
+**Live:** [to-do-list-pi-ashy-40.vercel.app](https://to-do-list-pi-ashy-40.vercel.app/)  
+**Code:** [GitHub Repository](https://github.com/ishaqbusiness5666-sudo/To-Do-List)
 
 ---
 
-## 📝 To-Do List App
+### 🖼️ React Pagination Image Gallery
 
-Modern To-Do website with localStorage support and GSAP animations.
+A responsive React image gallery using **API integration and pagination**.
 
-🔗 Live Demo: https://to-do-list-pi-ashy-40.vercel.app/
-📂 Repository: https://github.com/ishaqbusiness5666-sudo/To-Do-List
-
----
-
-## 🖼️ Pagination Image Gallery
-
-Responsive React.js image gallery with API integration and pagination system.
-
-🔗 Live Demo: https://react-js-pagination-website.vercel.app/
-📂 Repository: https://github.com/ishaqbusiness5666-sudo/React.js-pagination-website
+**Live:** [react-js-pagination-website.vercel.app](https://react-js-pagination-website.vercel.app/)  
+**Code:** [GitHub Repository](https://github.com/ishaqbusiness5666-sudo/React.js-pagination-website)
 
 ---
 
-## 🎥 YouTube Multiple Screen Player
+### 🎥 YouTube Multiple Screen Player
 
-Watch the same YouTube video on multiple screens simultaneously.
+A web application that allows users to watch the same YouTube video across multiple screens simultaneously.
 
-🔗 Live Demo: https://youtube-multiple-video.vercel.app/
-📂 Repository: https://github.com/ishaqbusiness5666-sudo/Youtube_Multiple_video
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaqbusiness5666-sudo&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishaqbusiness5666-sudo&theme=tokyonight" />
-</p>
+**Live:** [youtube-multiple-video.vercel.app](https://youtube-multiple-video.vercel.app/)  
+**Code:** [GitHub Repository](https://github.com/ishaqbusiness5666-sudo/Youtube_Multiple_video)
 
 ---
 
-# 🌐 Connect With Me
+## `05` — GitHub Activity
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ishaqbusiness5666-sudo&show_icons=true&hide_border=true&bg_color=030712&title_color=F9FAFB&text_color=F9FAFB&icon_color=8B5CF6" alt="GitHub Stats" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=ishaqbusiness5666-sudo&hide_border=true&background=030712&ring=8B5CF6&fire=06B6D4&currStreakLabel=F9FAFB&sideLabels=F9FAFB&dates=F9FAFB" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## `06` — Current Focus
+
+```text
+[████████████████████░░]  Frontend Development
+[█████████████████░░░░░]  React.js
+[███████████████░░░░░░░]  Backend Development
+[██████████████░░░░░░░░]  REST APIs
+[█████████████░░░░░░░░░]  MongoDB
+[███████████░░░░░░░░░░░]  Advanced React.js
+```
+
+> **Building → Learning → Improving → Repeating.**
+
+---
+
+## `07` — Goals
+
+- 🚀 Build more complete full-stack applications
+- ⚛️ Master advanced React.js concepts
+- ⚙️ Strengthen backend development skills
+- 🔌 Build and consume production-ready APIs
+- 🎨 Create premium, modern UI/UX experiences
+- 📈 Keep improving through real-world projects
+
+---
+
+## `08` — Connect With Me
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/muhammad-ishaq3">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=F9FAFB" />
 </a>
 
-<a href="https://www.facebook.com/m.ishaq03">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<a href="https://github.com/ishaqbusiness5666-sudo">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F9FAFB" />
 </a>
 
 <a href="https://www.instagram.com/m.ishaq03">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-06B6D4?style=for-the-badge&logo=instagram&logoColor=030712" />
 </a>
+
+<a href="https://www.facebook.com/m.ishaq03">
+<img src="https://img.shields.io/badge/Facebook-8B5CF6?style=for-the-badge&logo=facebook&logoColor=F9FAFB" />
+</a>
+
 <a href="mailto:ishaqbiness5666@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=030712" />
 </a>
-<a href="https://github.com/ishaqbusiness5666-sudo">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white%22"/>
-</a>
-</p>
+
+</div>
 
 ---
 
+<div align="center">
 
-# 🎯 Current Goals
+### `MI³` — BUILD • LEARN • CREATE
 
-* Build Full Stack Projects
-* Improve Backend Development
-* Learn Advanced React.js
-* Create Premium UI/UX Designs
+**Primary:** `#8B5CF6` &nbsp; **Accent:** `#06B6D4` &nbsp; **Background:** `#030712`
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"/>
-</p>
-
-
+</div>
